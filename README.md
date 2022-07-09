@@ -71,7 +71,7 @@ The demo package has a simple API of 3 functions.
 * `->randomRainbowColor()` - uses the `faker` package 
 
 To use this package: 
-`composer require demo-package/demo-package-php`
+`composer require demo-package/demo-package-php:dev-main`
 
 Then: 
 ```php
