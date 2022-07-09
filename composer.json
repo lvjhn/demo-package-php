@@ -1,0 +1,21 @@
+{
+    "name": "demo-package/demo-package-php",
+    "description": "This is a sample package which follows the instructions for publishing a PHP package to Packagist and installing it using Composer.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "LJ Sta. Ana",
+            "email": "lvjhn.mx@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "DemoPackagePHP\\": "src/"
+        }
+    },
+    "require": {
+        "fakerphp/faker": "^1.19"
+    }
+}
