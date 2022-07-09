@@ -1,5 +1,5 @@
 # DEMO-PACKAGE-PYTHON 
-This is a sample package which follows the instructions 
+This sample package follows the instructions 
 for publishing a PHP package to Packagist and installing it using Composer. 
 
 This repository can be used as a template for building packages. 
@@ -21,23 +21,23 @@ Full instructions for publishing a Python package using
 PyPI can be found here: 
 https://packaging.python.org/en/latest/tutorials/packaging-projects/
 
-I made a `tinyurl.com` shortlinks for the 
+I made a `tinyurl.com` short-link for the 
 tutorial link above:
 
 https://tinyurl.com/how-to-package-php
 
-If you want, you can include the links above to your
+If you want, you can include the links above in your
 bookmarks.
 
 ## Summarized/Compact Instructions 
-In summary the insructions can be divided into the outline below
-if you don't feel clicking the tutorial link again and again.
+In summary, the instructions can be divided into the outline below
+if you don't feel like clicking the tutorial link again and again.
 
 Full instructions can be found in the tutorials above in case 
-the summary doesn't still help in recall.
+the summary doesn't still help in recalling the procedures.
 
 1. Creating a Package 
-    1. Create directory for package 
+    1. Create a directory for the package 
     1. Create `composer.json` file with the following details. 
         1. name
         1. description
