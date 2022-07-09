@@ -9,7 +9,6 @@
             "email": "lvjhn.mx@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "DemoPackagePHP\\": "src/"
