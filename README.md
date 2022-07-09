@@ -59,6 +59,7 @@ demo-package-php
     tests/                  # Package Tests 
         main.php
     vendor/                 # Framework Files
+    composer.json           # Package Information
     LICENSE                 # License File (MIT)
     README.md               # This file 
 ```
