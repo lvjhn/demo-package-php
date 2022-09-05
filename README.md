@@ -97,7 +97,7 @@ It should return the following:
 ## Reusing as Template
 If you intend to reuse this package as a template for future package projects, use the following command: 
 
-1. `git clone https://gitlab.com/demo-package/demo-package-php.git`
+1. `git clone https://github.com/demo-package/demo-package-php.git`
 1. Edit `package.json` to suit your project's specifications. 
 1. Modify the project as necessary
 1. Connect to a Git (GitLab, Github, and/or Bitbucket) Repo
